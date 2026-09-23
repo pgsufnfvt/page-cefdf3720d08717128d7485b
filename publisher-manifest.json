@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e31e7379ccf6355c4beb725",
+  "owner": "pgsufnfvt",
+  "repo": "page-cefdf3720d08717128d7485b",
+  "title": "秒秒云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cefdf3720d08717128d7485b",
+      "a": "秒秒云",
+      "b": "稳定全球clash加速器",
+      "entity": "秒秒云",
+      "brand": "秒秒云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "08a58069061bba9a7f5968e8bdb46bcf23a7c63bdbd1282401d6871805a38714",
+      "content": {
+        "primary_entity": "秒秒云",
+        "keyword1": "秒秒云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备使用对应客户端，按系统选择即可。",
+          "AI_CLIENTS_TITLE": "选择适合设备的客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量选择套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "挑选合适套餐开始使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版搭载 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三点帮你快速定位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，覆盖多数场景。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "团队协作需求",
+          "AI_FEATURE_TITLE_3": "月付与年付对比",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "秒秒云提供稳定全球加速订阅，覆盖基础版、旗舰版和团队版三档套餐。根据设备数量和月流量选择合适方案，再按客户端文档导入订阅，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "稳定全球加速，三档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案每月最低约 ¥12.5 起",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别 ¥150、¥350、¥850，可按设备数量和流量需求对比。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "按日常设备数量和每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端兼容要求，查看套餐中的在线设备数量限制。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅配置，在设备上完成连接。",
+          "AI_STEP_TITLE_1": "挑选服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅并连接",
+          "AI_VISUAL_TITLE": "秒秒云套餐一页看清",
+          "AI_FAQ_ANSWER_1": "根据每月流量和设备数量选择：个人日常使用基础版每月 100GB、3 台设备即可；需要流媒体解锁和游戏加速可选旗舰版每月 300GB、5 台设备；多人共享或小型团队适合团队版每月 1000GB、20 台设备。",
+          "AI_FAQ_ANSWER_2": "在手机或电脑上安装与系统对应的适配客户端，用订阅链接或订阅文件导入节点信息，然后选择线路连接。路由器需先确认型号支持，再按对应教程配置。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量后，新设备需要等待已有设备下线或升级套餐。",
+          "AI_FAQ_ANSWER_4": "套餐提供按月与按年两种周期，按年付更划算，例如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化和全节点原生流媒体解锁；团队版提供 VIP 专属高带宽节点与企业定制路由。普通浏览使用基础版即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "秒秒云不同套餐适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "如何在常用设备上导入订阅？",
+          "AI_FAQ_QUESTION_3": "同一账号最多能连接多少台设备？",
+          "AI_FAQ_QUESTION_4": "计费周期怎么选，按年付便宜多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yinheyunjichang.com",
+    "host": "yinheyunjichang.com"
+  },
+  "file_hashes": {
+    "index.html": "bef9ae4b868b43d67d42e59fb316cec77d847e3860dce33f78c2eba00b3e2586",
+    "sitemap.xml": "af8757111e2dc37f18eb4e2042d7ec4ceee664ca6f5af8ed286465135150409c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "736450cc702ee146ac2e42d7042fb927c4be44b8c4b71904562a28087f05804d",
+    "robots.txt": "c2d76adfad09ec135fa54a0dc5e55d4a2aa29424fe5bdd0613b784af5e41e604",
+    "b16daeeebf4f2a0e47f3a7bf69803067.txt": "0c83c4c434c9cb43ae8c402253e55817a209a7592d7f222d426080d5064bedb5"
+  },
+  "revision": "9108e9c768f4e7c2e6b57570293d30b72fe80ac7aa29c7d359e206f94db62532"
+}
